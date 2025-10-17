@@ -94,7 +94,9 @@ src/
 ├── hybrid_retriever.py       # Hybrid scoring (40% semantic + 30% entity + 30% recency)
 ├── context_assembler.py      # Context formatting
 └── main_lyzr.py             # Lyzr AI SDK integration
+
 ```
+
 ### Data Flow Example
 ```
 User: "What was Q3 revenue?"
@@ -218,12 +220,13 @@ The web interface includes:
 
 **Vector Database Integration** - Replace word matching with embeddings for semantic search
 
-**Multi-User Support **- Separate memory contexts with role-based access control
+**Multi-User Support**- Separate memory contexts with role-based access control
 
-**Advanced Analytics **- Real-time monitoring dashboard with conversation insights
+**Advanced Analytics**- Real-time monitoring dashboard with conversation insights
 
 **Lyzr Studio Integration** - One-click deployment templates for enterprise use
 
-
-
+# Architecture Diagram
+*** for refernce purpose***
+![Architecture diagram](/architecture_diagram.png)
 
