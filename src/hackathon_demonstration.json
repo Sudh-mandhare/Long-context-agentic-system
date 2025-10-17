@@ -1,0 +1,57 @@
+{
+  "current_turn": 6,
+  "sensory": [
+    {
+      "turn_number": 5,
+      "user_message": "Can you tell me about the new product launches?",
+      "assistant_response": "Based on our conversation, Q2 revenue was $5 million.",
+      "tool_output": "",
+      "timestamp": "2025-10-16T14:36:43.275433",
+      "tokens": 23
+    },
+    {
+      "turn_number": 6,
+      "user_message": "What was that customer satisfaction score again?",
+      "assistant_response": "Based on our conversation, Q2 revenue was $5 million.",
+      "tool_output": "",
+      "timestamp": "2025-10-16T14:36:43.275433",
+      "tokens": 21
+    }
+  ],
+  "short_term": [
+    {
+      "turn_number": 1,
+      "original_tokens": 70,
+      "compressed_summary": "Compressed summary with key entities and facts",
+      "compressed_tokens": 8,
+      "entities": [],
+      "timestamp": "2025-10-16T14:36:43.273434"
+    },
+    {
+      "turn_number": 2,
+      "original_tokens": 21,
+      "compressed_summary": "Compressed summary with key entities and facts",
+      "compressed_tokens": 8,
+      "entities": [],
+      "timestamp": "2025-10-16T14:36:43.274433"
+    },
+    {
+      "turn_number": 3,
+      "original_tokens": 21,
+      "compressed_summary": "Compressed summary with key entities and facts",
+      "compressed_tokens": 8,
+      "entities": [],
+      "timestamp": "2025-10-16T14:36:43.275433"
+    },
+    {
+      "turn_number": 4,
+      "original_tokens": 22,
+      "compressed_summary": "Compressed summary with key entities and facts",
+      "compressed_tokens": 8,
+      "entities": [],
+      "timestamp": "2025-10-16T14:36:43.275433"
+    }
+  ],
+  "long_term": [],
+  "entity_index": {}
+}

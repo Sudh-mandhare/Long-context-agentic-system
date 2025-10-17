@@ -1,0 +1,49 @@
+{
+  "current_turn": 5,
+  "sensory": [
+    {
+      "turn_number": 4,
+      "user_message": "What was the growth percentage from Q2 to Q3?",
+      "assistant_response": "Compressed: Q3 revenue $6M, up 20% from Q2. Top customers: Amazon, Google, Microsoft.",
+      "tool_output": "",
+      "timestamp": "2025-10-16T14:29:44.572627",
+      "tokens": 39
+    },
+    {
+      "turn_number": 5,
+      "user_message": "Can you remind me about the customer satisfaction score?",
+      "assistant_response": "Compressed: Q3 revenue $6M, up 20% from Q2. Top customers: Amazon, Google, Microsoft.",
+      "tool_output": "",
+      "timestamp": "2025-10-16T14:29:47.884133",
+      "tokens": 37
+    }
+  ],
+  "short_term": [
+    {
+      "turn_number": 1,
+      "original_tokens": 69,
+      "compressed_summary": "Compressed: Q3 revenue $6M, up 20% from Q2. Top customers: Amazon, Google, Microsoft.",
+      "compressed_tokens": 27,
+      "entities": [],
+      "timestamp": "2025-10-16T14:29:42.338497"
+    },
+    {
+      "turn_number": 2,
+      "original_tokens": 35,
+      "compressed_summary": "Compressed: Q3 revenue $6M, up 20% from Q2. Top customers: Amazon, Google, Microsoft.",
+      "compressed_tokens": 27,
+      "entities": [],
+      "timestamp": "2025-10-16T14:29:45.631606"
+    },
+    {
+      "turn_number": 3,
+      "original_tokens": 34,
+      "compressed_summary": "Compressed: Q3 revenue $6M, up 20% from Q2. Top customers: Amazon, Google, Microsoft.",
+      "compressed_tokens": 27,
+      "entities": [],
+      "timestamp": "2025-10-16T14:29:48.575032"
+    }
+  ],
+  "long_term": [],
+  "entity_index": {}
+}

@@ -1,0 +1,57 @@
+{
+  "current_turn": 6,
+  "sensory": [
+    {
+      "turn_number": 5,
+      "user_message": "Can you tell me about the new product launches?",
+      "assistant_response": "Compressed: Q3 revenue $6M, 20% growth, customers: Amazon, Google, Microsoft",
+      "tool_output": "",
+      "timestamp": "2025-10-16T14:36:01.370169",
+      "tokens": 32
+    },
+    {
+      "turn_number": 6,
+      "user_message": "What was that customer satisfaction score again?",
+      "assistant_response": "Compressed: Q3 revenue $6M, 20% growth, customers: Amazon, Google, Microsoft",
+      "tool_output": "",
+      "timestamp": "2025-10-16T14:36:01.370169",
+      "tokens": 30
+    }
+  ],
+  "short_term": [
+    {
+      "turn_number": 1,
+      "original_tokens": 78,
+      "compressed_summary": "Compressed: Q3 revenue $6M, 20% growth, customers: Amazon, Google, Microsoft",
+      "compressed_tokens": 22,
+      "entities": [],
+      "timestamp": "2025-10-16T14:36:01.368162"
+    },
+    {
+      "turn_number": 2,
+      "original_tokens": 30,
+      "compressed_summary": "Compressed: Q3 revenue $6M, 20% growth, customers: Amazon, Google, Microsoft",
+      "compressed_tokens": 22,
+      "entities": [],
+      "timestamp": "2025-10-16T14:36:01.369162"
+    },
+    {
+      "turn_number": 3,
+      "original_tokens": 30,
+      "compressed_summary": "Compressed: Q3 revenue $6M, 20% growth, customers: Amazon, Google, Microsoft",
+      "compressed_tokens": 22,
+      "entities": [],
+      "timestamp": "2025-10-16T14:36:01.370169"
+    },
+    {
+      "turn_number": 4,
+      "original_tokens": 31,
+      "compressed_summary": "Compressed: Q3 revenue $6M, 20% growth, customers: Amazon, Google, Microsoft",
+      "compressed_tokens": 22,
+      "entities": [],
+      "timestamp": "2025-10-16T14:36:01.370169"
+    }
+  ],
+  "long_term": [],
+  "entity_index": {}
+}

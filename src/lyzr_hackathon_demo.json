@@ -1,0 +1,57 @@
+{
+  "current_turn": 6,
+  "sensory": [
+    {
+      "turn_number": 5,
+      "user_message": "Can you tell me about the new product launches?",
+      "assistant_response": "Based on our Q3 results discussion, Q2 revenue was $5 million.",
+      "tool_output": "",
+      "timestamp": "2025-10-16T15:07:42.394585",
+      "tokens": 26
+    },
+    {
+      "turn_number": 6,
+      "user_message": "What was that customer satisfaction score again?",
+      "assistant_response": "Based on our Q3 results discussion, Q2 revenue was $5 million.",
+      "tool_output": "",
+      "timestamp": "2025-10-16T15:07:42.395572",
+      "tokens": 24
+    }
+  ],
+  "short_term": [
+    {
+      "turn_number": 1,
+      "original_tokens": 69,
+      "compressed_summary": "Q3: $6.2M revenue, 25% growth from Q2 $5M | Clients: Amazon, Google, Microsoft, Tesla | Satisfaction: 94% | 3 new products",
+      "compressed_tokens": 41,
+      "entities": [],
+      "timestamp": "2025-10-16T15:07:42.392572"
+    },
+    {
+      "turn_number": 2,
+      "original_tokens": 24,
+      "compressed_summary": "Q2 revenue: $5M baseline | Context for Q3 growth comparison",
+      "compressed_tokens": 15,
+      "entities": [],
+      "timestamp": "2025-10-16T15:07:42.393577"
+    },
+    {
+      "turn_number": 3,
+      "original_tokens": 24,
+      "compressed_summary": "Q2 revenue: $5M baseline | Context for Q3 growth comparison",
+      "compressed_tokens": 15,
+      "entities": [],
+      "timestamp": "2025-10-16T15:07:42.395572"
+    },
+    {
+      "turn_number": 4,
+      "original_tokens": 25,
+      "compressed_summary": "Q2 revenue: $5M baseline | Context for Q3 growth comparison",
+      "compressed_tokens": 15,
+      "entities": [],
+      "timestamp": "2025-10-16T15:07:42.396594"
+    }
+  ],
+  "long_term": [],
+  "entity_index": {}
+}
